@@ -58,3 +58,4 @@ pm uninstall --user 0 com.android.documentsui.overlay.base.s600ww
 pm uninstall --user 0 com.evenwell.legalterm.overlay.base.s600ww
 pm uninstall --user 0 com.evenwell.retaildemoapp
 pm uninstall --user 0 com.evenwell.mappartner
+pm uninstall --user 0 com.evenwell.round
