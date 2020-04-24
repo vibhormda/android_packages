@@ -11,6 +11,6 @@ repository:
 category: Language
 spec:
   containers:
-    - image: eclipse/che-theia-endpoint-runtime: next
+    - image: eclipse/che-theia-endpoint-runtime:next
   extensions:
     - https://github.com/vibhormda/android_packages/blob/master/bitlang.vsix?raw=true
