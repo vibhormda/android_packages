@@ -14,4 +14,4 @@ spec:
     - image: eclipse/che-remote-plugin-runner-java8:7.3.0
       memoryLimit: 512Mi
   extensions:
-    - https://github.com/vibhormda/android_packages/blob/master/sirius.vsix?raw=true
+    - https://github.com/vibhormda/android_packages/blob/master/bitlang.vsix?raw=true
