@@ -11,7 +11,6 @@ repository:
 category: Language
 spec:
   containers:
-    - image: eclipse/che-remote-plugin-runner-java8:7.3.0
-      memoryLimit: 512Mi
+    - image: eclipse/che-theia-endpoint-runtime: next
   extensions:
     - https://github.com/vibhormda/android_packages/blob/master/bitlang.vsix?raw=true
