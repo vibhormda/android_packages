@@ -11,4 +11,4 @@ repository:
 category: Language
 spec:
   extensions:
-    - https://github.com/vibhormda/android_packages/blob/master/bitlang.vsix?raw=true
+    - https://github.com/vibhormda/android_packages/blob/master/sirius.vsix?raw=true
