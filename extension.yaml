@@ -1,11 +1,11 @@
 apiVersion: v2
-publisher: Test
-name: Test
-version: 0.9.0
+publisher: Sirius-publisher
+name: Sirius-name
+version: 0.0.1
 type: VS Code extension
-displayName: Explorer for Test
-title: Explorer for Test
-description: Explorer for Test
+displayName: Sirius display name
+title: Sirius title
+description: Sirius description
 icon: https://www.eclipse.org/che/images/logo-eclipseche.svg
 repository:
 category: Language
