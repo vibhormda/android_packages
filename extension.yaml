@@ -11,6 +11,6 @@ repository:
 category: Language
 spec:
   containers:
-    -image: eclipse/che-theia-endpoint-runtime:next
+    -image: quay.io/eclipse/che-sidecar-java:11-f76ca45
   extensions:
-    - https://github.com/vibhormda/android_packages/blob/master/bitlang.vsix?raw=true
+    - http://artifactory-lvn.broadcom.net/artifactory/generic-release-candidate-local/sirius/sirius-0.0.1.vsix
